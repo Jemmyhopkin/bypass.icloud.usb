@@ -10,10 +10,4 @@
 
 3. Install Jailbreak on iPhone using [checkra1n](https://checkra.in)
 
-4. Run the script ```python3 bypass.py```
-
-## Author 
-
-Dmitry Gridnev – flymedllva@gmail.com
-
-@flymedllva – [GitHub](https://github.com/FlymeDllVa)
+4. Run the script ```python3 bypass.py``
